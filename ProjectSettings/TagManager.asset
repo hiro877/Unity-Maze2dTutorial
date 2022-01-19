@@ -8,6 +8,7 @@ TagManager:
   - Keys
   - Enemies
   - GoldStar
+  - PlayerLight
   layers:
   - Default
   - TransparentFX
